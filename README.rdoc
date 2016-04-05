@@ -1,4 +1,4 @@
-== README
+== TattooYou
 
 TattooYou was created to help a user select their next tattoo through a series of questions with reccomendations. 
 
