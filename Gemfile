@@ -32,7 +32,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'foundation-rails' #Zurb foundation
+gem 'foundation-rails', '5.5.3.2' #Zurb foundation
 group :development do
   gem 'rails_layout'
 end
