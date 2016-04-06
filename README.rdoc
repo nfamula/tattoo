@@ -1,13 +1,14 @@
 == TattooYou
 
-TattooYou was created to help a user select their next tattoo through a series of questions with reccomendations. 
+
+TattooYou is the ultimate tattoo reccomendation quiz. It was created to help a user select their next tattoo through a series of questions taking their personal taste into account.
 
 The questions and reccomendations are partials rendered based on a series of if statements in the questions controller.
 
-This project was created with a focus on front-end development. 
+This project was created with a focus on front-end development.
 Front-end technologies explored include SASS, coffeescript, and foundation.
 
-Images were sourced from Unsplash, all photos published on Unsplash are licensed under Creative Commons Zero.
+Images were carefully hand selected from Unsplash, all photos published on Unsplash are licensed under Creative Commons Zero.
 
 * Ruby version 2.1.3
 
