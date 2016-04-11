@@ -15,3 +15,12 @@ Images were carefully hand selected from Unsplash, all photos published on Unspl
 * Rails version 4.2.5
 
 * Plans to deploy with Heroku
+
+--------------------------
+to run on local host:
+
+* $ bundle install
+
+* $ bin/rails server
+
+* in vagrant machine run $ rails s -b 0.0.0.0
